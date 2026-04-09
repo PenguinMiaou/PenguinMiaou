@@ -1,18 +1,24 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey, I'm PenguinMiaou
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=D97706&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+PenguinMiaou;AI+Tools+Builder;Claude+Code+Plugin+Dev;Connecting+AI+to+Everything)](https://git.io/typing-svg)
+<h3 align="center">AI Tools Builder | Claude Code Plugin Developer</h3>
 
-<br>
+<p align="center">
+  <em>Building tools that connect AI to everything.</em>
+</p>
 
-**AI Tools Builder | Claude Code Plugin Developer**
-
-> *Building tools that connect AI to everything.*
-
-[![GitHub followers](https://img.shields.io/github/followers/PenguinMiaou?logo=github&style=for-the-badge&color=D97706&labelColor=1a1a2e)](https://github.com/PenguinMiaou?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/PenguinMiaou?affiliations=OWNER&style=for-the-badge&color=D97706&labelColor=1a1a2e&logo=github)](https://github.com/PenguinMiaou?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=PenguinMiaou&color=D97706&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PenguinMiaou)
-
-</div>
+<p align="center">
+  <a href="https://github.com/PenguinMiaou?tab=followers">
+    <img src="https://img.shields.io/github/followers/PenguinMiaou?logo=github&style=for-the-badge&color=D97706&labelColor=1a1a2e" />
+  </a>
+  <a href="https://github.com/PenguinMiaou?tab=repositories">
+    <img src="https://img.shields.io/github/stars/PenguinMiaou?affiliations=OWNER&style=for-the-badge&color=D97706&labelColor=1a1a2e&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=PenguinMiaou&color=D97706&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
@@ -31,38 +37,18 @@ currently_building: Claude Code plugins that connect AI to everything
 
 ### 🔨 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-[![awesome-claude-code-plugins](https://github-readme-stats.vercel.app/api/pin/?username=PenguinMiaou&repo=awesome-claude-code-plugins&theme=transparent&hide_border=true&title_color=D97706&icon_color=D97706&text_color=c9d1d9)](https://github.com/PenguinMiaou/awesome-claude-code-plugins)
-
-</td>
-<td width="50%">
-
-[![claude-channel-whatsapp](https://github-readme-stats.vercel.app/api/pin/?username=PenguinMiaou&repo=claude-channel-whatsapp&theme=transparent&hide_border=true&title_color=D97706&icon_color=D97706&text_color=c9d1d9)](https://github.com/PenguinMiaou/claude-channel-whatsapp)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![claude-hive](https://github-readme-stats.vercel.app/api/pin/?username=PenguinMiaou&repo=claude-hive&theme=transparent&hide_border=true&title_color=D97706&icon_color=D97706&text_color=c9d1d9)](https://github.com/PenguinMiaou/claude-hive)
-
-</td>
-<td width="50%">
-
-[![crypto-beast](https://github-readme-stats.vercel.app/api/pin/?username=PenguinMiaou&repo=crypto-beast&theme=transparent&hide_border=true&title_color=D97706&icon_color=D97706&text_color=c9d1d9)](https://github.com/PenguinMiaou/crypto-beast)
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[awesome-claude-code-plugins](https://github.com/PenguinMiaou/awesome-claude-code-plugins)** | Curated directory of Claude Code plugins with install guides & ratings | ![Awesome](https://img.shields.io/badge/Awesome-fc60a8?style=flat-square&logo=awesomelists&logoColor=white) |
+| **[claude-channel-whatsapp](https://github.com/PenguinMiaou/claude-channel-whatsapp)** | WhatsApp channel plugin for Claude Code via MCP | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-5A45FF?style=flat-square) |
+| **[claude-hive](https://github.com/PenguinMiaou/claude-hive)** | Multi-agent coordination — worktree isolation & PR workflows | ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-D97706?style=flat-square) |
+| **[crypto-beast](https://github.com/PenguinMiaou/crypto-beast)** | Autonomous crypto futures trading bot for Binance USDT-M | ![Python](https://img.shields.io/badge/PY-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
 ### 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,26 +58,18 @@ currently_building: Claude Code plugins that connect AI to everything
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-5A45FF?style=for-the-badge)
 
-</div>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PenguinMiaou&show_icons=true&theme=transparent&hide_border=true&title_color=D97706&icon_color=D97706&text_color=c9d1d9&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguinMiaou&theme=transparent&hide_border=true&ring=D97706&fire=D97706&currStreakLabel=D97706)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinMiaou&layout=compact&theme=transparent&hide_border=true&title_color=D97706&text_color=c9d1d9)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PenguinMiaou&theme=transparent&hide_border=true&ring=D97706&fire=D97706&currStreakLabel=D97706&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=D97706&sideNums=D97706" width="70%" />
+</p>
 
 ---
 
-<div align="center">
-
-*If you find my work useful, consider giving it a ⭐*
-
-</div>
+<p align="center">
+  <em>If you find my work useful, consider giving it a ⭐</em>
+</p>
